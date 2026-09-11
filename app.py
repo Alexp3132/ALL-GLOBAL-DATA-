@@ -142,5 +142,5 @@ try:
         st.info("No existen datos para generar una conclusión.")
 
 except Exception as e:
-    st.error("No fue posible cargar o procesar la información.")
+    st.error("No fue posible cargar o procesar la informacioón.")
     st.exception(e)
